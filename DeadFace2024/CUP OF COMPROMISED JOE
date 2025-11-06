@@ -1,0 +1,10 @@
+Takes you to a link to a blog. 
+
+While scanning the blog I decided to try taking the  blog post image and reverse-searched it.
+
+Which links you to another blog of the top 28 avocado toast in Fresno! 
+(Our first part of the flag!)
+
+Scolled through the blog to find that Coffe House number "27" is titled "Kuppa Joy Coffee House" searched the address for the zip 
+
+Now that we have found the address we see the city and the zipcode of the coffe house and that is our flag!

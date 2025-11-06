@@ -1,0 +1,24 @@
+Prompt:"DEADFACE seems to have gathered information on a pharmaceutical CEO Albert Bourla in an attempt to create a valid work order to Aurora Pharmaceuticals. They claim to have cracked his password by doing a deep dive into his history.
+
+Apparently the password is his dogs names and the day month and year he received “The Golden Cross of the Order of the Redeemer” award and the Year his thesis was published.
+
+We don't know the order the dogs names are listed, but we are sure the 2nd name starts with a capitol letter."
+
+_____________________________________________
+
+From the prompt we know the components that we need to go looking for, for the flag: 
+We need to find his Dogs Names
+We also need to find the month and year he recieved "The Golden Cross of the Order of the Redeemer"
+And lastly the Year his thesis was published
+
+Finding The award:
+Firstly I tried looking up the CEO's name and the name of the reward on google using "" to make sure my results included the CEO's Name and the reward in the articles. With limiting my search results I was ale to find an article that he received the award on April 5th 2022
+
+Finding the Dog's Names:
+Looked up the CEO's name with the search criteria "dogs" this then led me to a linkedin post where he posted a picture of his two dogs! And in the description it had his two dogs names who are Simba and Charlie.
+
+Finding the Thesis:
+Then looked up the CEO's name with "thesis" as the criteria. This was abit more tricky since the CEO has actually written multiple thesis's. But I eventually decided to go with the date of his first published thesis which he published in 1991
+
+
+Add all the components up  in the order as the prompt described and we have found our flag! :)
