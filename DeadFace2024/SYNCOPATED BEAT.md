@@ -18,7 +18,7 @@ Challenge gives you a video with  hard rock/metal playing in the background  but
 
 One of my first thoughts of maybe trying to reverse the audio.
 
-If you reverse the video  the video give you the hint  to the flag that it is a band from the 70's that sang a song called " Fly like an eagle time  is slipping slipping"
+If you reverse the video,  the video gives you the hint  to the flag that it is a band from the 70's that sang a song called " Fly like an eagle time is slipping slipping"
 
 With that hint I went to trusty google again and simply looked up the song lyrics! 
 With that you are lead to the band name and we have found our flag!
