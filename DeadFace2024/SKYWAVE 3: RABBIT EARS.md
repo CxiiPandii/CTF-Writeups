@@ -28,7 +28,11 @@ using this query I was able to get all the instances of tower id 189 and all the
 
 The flag requires the fulL name of the antenna so using SELECT * FROM Antennas;
 <img width="1079" height="564" alt="image" src="https://github.com/user-attachments/assets/b9c77b2f-d32f-4007-8cdc-3ed12a468f4b" />
-We get the full name of the antenna and add the amount of tiumes it occured and we have the flag!
+We get the full name of the antenna and add the amount of times it occured and we have the flag!
+
+
+Note: I do reccomend for easy navigation of the databases when you are first looking through the tables and the schemas take a screen shot of them
+to refrence back to  so you can see what elements are linked to each other from other tables.
 
 
 
