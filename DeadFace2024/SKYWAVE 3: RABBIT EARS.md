@@ -13,7 +13,7 @@ Firstly I went around the database and seeing the tables and the layouts using b
 and as well as SCHEMA.
 
 I found a table that listed Operators and thier information.
-The very first SQL Query first was: SELECT * FROM Operators where first_name = "Florian" AND last_name = "Olyff";
+The very first SQL Query was: SELECT * FROM Operators where first_name = "Florian" AND last_name = "Olyff";
 ![alt text](image.png)
 From this SQL Query we find that Florian Olyffs Operator ID is "4"
 
